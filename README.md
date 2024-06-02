@@ -42,8 +42,8 @@ public class Main {
     public static void main(String[] args) {
         Persona persona = new Persona();
         
-        persona.setNombre("Juan Perez");
-        persona.setEdad(30);
+        persona.setNombre("Gabriel Carrillo");
+        persona.setEdad(19);
         persona.setDni("123456789");
         
         persona.mostrarInformacion();
